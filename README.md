@@ -21,4 +21,4 @@
 И вот я здесь   
 Надеюсь, у меня все получится!
 
-![это я и моя прекрасная семья](https://github.com/OAOblat/about-me/blob/main/IMG_9045.jpeg)
+![это я и моя прекрасная семья](https://github.com/OAOblat/about-me/blob/main/try_Qc7ye4.jpeg)
